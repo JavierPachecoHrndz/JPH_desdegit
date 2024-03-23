@@ -9,10 +9,12 @@
 .negrita{
     font-weight: bold;
     color: black;
+    background-color:black;
 }
 .azul{
     color: blue;
     width:300%;
+    background-color:black;
 }
 /*cambio para probocar el error*/
 .rosa{
